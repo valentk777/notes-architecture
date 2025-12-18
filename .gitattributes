@@ -1,0 +1,9 @@
+* text=auto
+
+*.pdf diff=astextplain
+*.txt diff=astextplain
+*.in text eol=lf
+*.sh text eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.md text eol=crlf
